@@ -1,0 +1,39 @@
+html>
+<head>
+    <title>task 3</title>
+    <style>
+        table{
+           border-style: solid;
+           border-collapse: collapse;
+        }
+     </style>
+</head>
+<body> <table border="1" align="center" cellpadding="30" cellspacing="30" width="30%" >
+<tr>
+<td colspan="3">1
+<td width="10%">4
+<td rowspan="3">5
+</tr>
+<tr>
+<td>1
+<td rowspan="2" width="10%">2
+<td>3
+<td>4
+</tr>
+<tr>
+<td rowspan="2">1
+<td>3
+<td> 4 
+</tr>
+<tr>
+<td  colspan="3" >2
+<td>5
+</tr>
+<tr>
+<td>1
+   <td>2
+<td colspan="3">5
+</tr>
+</table>
+</body>
+</html>
